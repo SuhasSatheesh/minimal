@@ -16,7 +16,7 @@ Corona Warrior Bot - The Four wheeler robot can also deliver essentials to patie
 
 ## Project 2
 
-> Gesture Controlled Bot - A Robot in the form of car whose movements were controlled by “Hand Gestures”.
+> Gesture Controlled Bot - A Robot in the form of car whose movements were controlled by Hand Gestures.
 
 ### Header 3
 
